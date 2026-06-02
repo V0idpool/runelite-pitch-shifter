@@ -1,6 +1,6 @@
 # RuneLite Pitch Shifter (WeeeEEEE wOOOoooO)
 
-Randomly pitches in-game SFX up and down by 15%. Because bossing just isnt chaotic enough until Graardor sounds like hes on helium.
+Randomly pitches in-game SFX up and down by 15%.
 
 ## How it works
 Java's default volume controls and threading are trash, so this plugin bypasses them completely:
