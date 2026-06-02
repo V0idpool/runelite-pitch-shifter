@@ -1,5 +1,8 @@
 # RuneLite Pitch Shifter (WeeeEEEE wOOOoooO)
 
+![Java](https://img.shields.io/badge/Java-11-blue.svg)
+![RuneLite](https://img.shields.io/badge/RuneLite-Plugin-orange.svg)
+
 Randomly pitches in-game SFX up and down by 15%.
 
 ## How it works
@@ -17,3 +20,6 @@ Java's default volume controls and threading are trash, so this plugin bypasses 
 
 ## Note
 UI button clicks and a few other super spammy sounds are blacklisted in the code by default so you dont completely lose your mind.
+
+## Credits
+Shoutout to [SoaresPT](https://github.com/SoaresPT/OSRS-SoundEffects-Dumps) for the OSRS sound effect dumps used for this.
